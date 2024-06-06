@@ -1,10 +1,12 @@
 <img src="https://th.bing.com/th/id/OIP.tdnp0CZztfggg3gKXf854AHaEc?w=268&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<h6>Veja os portifolios que fiz na faculdade <BR>
+<a href="https://github.com/Edivaldo85b/Edivaldo85b/tree/main/Portifolio%20Unopar"> clicando aqui </a><BR></h6>
 <p align="left"> <h3>A Pagina está em constante atualização</h3></p><br>
-<h3>Teste os codigos no Compilado Online <BR>
+<h3>Teste os codigos no Compilador Online <BR>
 </h3>
   <a href="https://onlinegdb.com/JI5qhYxWz"> Teste os codigos online clicando aqui </a><BR>
   <a href="https://onlinegdb.com/JI5qhYxWz"><img src="https://i.ibb.co/Gk4gRV7/Captura-de-tela-2024-04-26-204520.png" alt="" border="0"></a><BR><BR>
+
 
  <p align="left">
   💌 Gostaria de compartilhar meu contato e redes sociais para contato: ⤵️
